@@ -6,6 +6,8 @@ Year/Semester: Year 1/Sem 2
 
 Tutorial Group: Group 1
 
+System Name: Sport Facilities Booking System
+
 Author:
  - Poh Choo Meng
  - William Choong
