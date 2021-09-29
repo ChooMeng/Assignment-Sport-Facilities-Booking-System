@@ -13,7 +13,7 @@ Author:
  - Choo Zhi Yan
 
 Programming Language:
-[C]
+[C, C++]
 
 System Requirements:
   - Visual Studio 2019 [Recommend] / Visual Studio 2017
